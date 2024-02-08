@@ -20,13 +20,13 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Minha loja online ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criar um conceito prático de lojas onlines que circulam em uma divulgação otimizada associando tópico e tags focado para vender produtos online.]
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Chat gpt, bing e redes sociais
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
